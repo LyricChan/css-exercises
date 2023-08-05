@@ -8,6 +8,9 @@
   align-items: center;
 }
 
+/*
+Using FLEXBOX is noice*/
+
 .box {
   background: palevioletred;
   font-weight: bold;
